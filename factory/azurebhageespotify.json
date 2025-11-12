@@ -1,0 +1,9 @@
+{
+	"name": "azurebhageespotify",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a17d64d-5830-4ce3-a520-e1d9645085e4",
+		"tenantId": "cf0e5d39-ae1c-4023-aad3-3866af71a47c"
+	}
+}
