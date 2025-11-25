@@ -291,7 +291,7 @@
 												"parameters": {
 													"countiner": "bronze",
 													"folder": {
-														"value": "@{item().table}_cdc\n",
+														"value": "@{item().table}_cdc",
 														"type": "Expression"
 													},
 													"file": "empty.json"
